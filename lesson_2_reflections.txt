@@ -2,3 +2,24 @@ What happens when you initialize a repository? Why do you need to do it?
 
 	Ein versteckter Ordner .git wird initialisiert und das Projekt so als Git identifiziert.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Ich kann ausgewählte Dateien zur Staging Area hinzufügen und nicht alle auf einmal. Damit kann ich schneller einen Überblick der Änderungen bekommen.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Einfach git status aufrufen, schon sieht man die Files in der Staging area.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Bei neuen Funktionen oder experimentellen Änderungen ist es sinnvoll einen neuen Branch anzulegen.
+	Man kann in Branches die Änderungen erst prüfen und dann mit dem Master Branch mergen.
+
+How do the diagrams help you visualize the branch structure?
+
+	Hier kann man sehen, wann welche Branches vom master abzweigen und wie die Struktur aller Branches zusammenhängt.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Ein Branch, der Änderungen beider Branches enthält.
+
