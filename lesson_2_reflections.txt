@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Ein versteckter Ordner .git wird initialisiert und das Projekt so als Git identifiziert.
+
