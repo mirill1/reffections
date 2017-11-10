@@ -12,3 +12,8 @@ Describe the differences between forks, clones, and branches. When would you use
 
 	Branches sind Abzweigungen vom master für Bugs oder neue Funktionen. Clones sind Kopien von Repos die von remote
 	auf lokal kopiert werden und forks sind Kopien innerhalb von Github.	
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?	
+
+	Ale Änderungen sind hier bereits vorhanden und ich kann dort ansetzen.
