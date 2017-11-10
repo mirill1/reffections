@@ -7,4 +7,8 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	Ich kann so bestimmen, wann ich Änderungen an das remote repository sende und wann nicht, ich habe mehr Entscheidungsgewalt darüber.
 
-	
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Branches sind Abzweigungen vom master für Bugs oder neue Funktionen. Clones sind Kopien von Repos die von remote
+	auf lokal kopiert werden und forks sind Kopien innerhalb von Github.	
