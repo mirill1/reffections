@@ -23,3 +23,6 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	Ein Branch, der Änderungen beider Branches enthält.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Git schaut, ob es Konflikte gibt und prüft die Dateien vor dem Merging, das nimmt viel Arbeit ab!
