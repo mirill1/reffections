@@ -23,3 +23,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 	Versionen per E-Mail schicken, lokale Änderungen per E-Mail schicken.
 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	Hier kann ich ausprobieren und kann ggf. mein Änderungen verwerfen etc.
