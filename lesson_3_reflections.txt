@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Zur Sicherung der Arbeit, zum Austausch mit Anderen, zum Überprüfen und Bereitstellen der Arbeit.
